@@ -1,0 +1,99 @@
+
+ 
+body::before{
+    display: block;
+    content: '';
+    height: 50px;
+}
+
+
+@media (min-width: 768px) {
+    .input-group {
+        width: 50%;
+    }
+}
+
+.brand {
+    color: purple !important;
+    font-style: bold !important;
+}
+
+.nav-btn {
+    background-color: purple !important;
+}
+
+.btn-clr {
+background-color: purple !important;
+border-radius: 20px !important;
+width: 150px;
+
+}
+
+.list{
+    list-style: none;
+}
+
+.div-img{
+    background-color: rgb(247, 152, 152);
+    border-radius: 20px;
+
+}
+
+.img{
+    background-color: rgb(248, 237, 237);
+    border-radius: 20px;
+}
+
+.bi{
+    color: purple;
+ 
+}
+.list{
+    color: purple;
+    background-color: rgb(247, 238, 238);
+    border-radius: 5px;
+    justify-content: center;
+    align-items: center;
+    vertical-align: middle;
+}
+
+.btn-card {
+    border-color: purple !important;
+    color: purple !important;
+    border-radius: 30px !important;
+    box-shadow: 2%;
+    
+}
+ .col{
+    border-radius: 10px;
+}
+
+ .price{
+    font-style: bold;
+}
+
+.text-clr {
+    font-style: bold !important;
+}
+
+.btn-submit{
+    color: white !important;
+    background-color: purple !important;
+    border-radius: 40px !important;
+    width: 200px;
+    height: 60px;
+}
+
+.input-field {
+    background-color: rgb(231, 229, 229) !important;
+    border-radius: 5px !important;
+    height: 50px !important;
+    border-color: white !important; 
+}
+
+.input-field1{
+    background-color: rgb(231, 229, 229) !important;
+    border-radius: 5px !important;
+    height: 100px !important;
+    border-color: white !important; 
+}
